@@ -1,0 +1,97 @@
+#navbar {
+    float: right;
+    margin-bottom: 25vh;
+    margin-top: 0;
+    display: flex;
+}
+
+#navbar span{
+    padding: 10px; 
+}
+
+#boxin {
+    margin-top: 0px;
+    display: flex;
+    position: absolute;
+    margin-top: 25vh;
+    justify-content: center;
+}
+
+#boxin button{
+    background: rgba(16, 12, 26, 0.1);
+    border: 0;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+#heading{
+    margin-left: 48vh;
+    margin-bottom: 10px;
+}
+
+#searchbar{
+    width: 70vw;
+    margin-left: 15vw;
+    padding: 10px;
+    border: 0.5px solid grey;
+    border-radius: 20px
+}
+
+#searchbuttons {
+    margin-top: 12px;
+    margin-left: 38vw
+}
+
+
+.submitt{
+    padding: 4px;
+    align-self: center;
+    margin-left: 4px
+}
+
+.navimg {
+    height: 35px;
+    margin-left: 10px;5
+}
+
+footer {
+    margin-top: 28vh;
+    position: absolute;
+    background: #b5c4b9;
+    height: 80px;
+    bottom: 0;
+    left: 0; 
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+#footer-top {
+    left: 15px;
+    top: 5px;
+    position: absolute
+}
+#footer-bottom span{
+    padding: 10px;
+}
+
+.f1 {
+    bottom: 0;
+    position: absolute;
+    left: 10px;
+    padding-right: 5px
+}
+
+.f2 {
+    bottom: 0;
+    position: absolute;
+    right: 10px;
+    padding-right: 5px
+}
+
+hr {
+    margin-top: 35px;
+    width: 100vw;
+    height: 0px;
+}
